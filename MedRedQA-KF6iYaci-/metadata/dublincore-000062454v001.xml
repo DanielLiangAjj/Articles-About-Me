@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dcterms:dc xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ https://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dc:title>MedRedQA</dc:title>
+  <dc:creator>Vincent Nguyen</dc:creator>
+  <dc:subject>Natural language processing</dc:subject>
+  <dc:subject>Information retrieval and web search</dc:subject>
+  <dc:subject>Applications in health</dc:subject>
+  <dc:description>A large non-factoid English consumer Question Answering (QA) dataset containing 51,000 pairs of consumer questions and their corresponding expert answers. This dataset is useful for bench-marking or training systems on more difficult real-world questions and responses which may contain spelling or formatting errors, or lexical gaps between consumer and expert vocabularies.
+
+By downloading this dataset, you agree to have obtained ethics approval from your institution.</dc:description>
+  <dc:publisher>CSIRO</dc:publisher>
+  <dc:contributor>Sarvnaz Karimi</dc:contributor>
+  <dc:contributor>Maciek Rybinski</dc:contributor>
+  <dc:contributor>Zhenchang Xing</dc:contributor>
+  <dc:type />
+  <dc:format />
+  <dc:identifier>https://doi.org/10.25919/yn7x-9148</dc:identifier>
+  <dc:language />
+  <dcterms:temporal xsi:type="dcterms:Period">start=2013-07-10; end=2022-04-02</dcterms:temporal>
+  <dc:rights />
+</dcterms:dc>

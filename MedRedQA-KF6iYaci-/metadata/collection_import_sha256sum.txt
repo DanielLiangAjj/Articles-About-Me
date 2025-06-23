@@ -1,0 +1,2 @@
+fd24c3b91d4301712dc31b56dfc0e3d8191ef1508b0563430d4b0ca45c9da617 .data/medredqa.tar.gz
+b0556a78989b2444410a32466c1c39f3bdd0b7484ad89efab9a1114d5c953c05 .data/medredqa_pubmed.tar.gz
